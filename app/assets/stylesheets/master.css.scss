@@ -150,6 +150,11 @@ h2 {
   border-bottom: 1px solid #dfdfdf;
 }
 
+abbr[title] {
+    border: none;
+    color: #d9534f;
+}
+
 .next-quote {
   font-family: 'Open Sans Condensed', sans-serif;
   color:#f84342;
