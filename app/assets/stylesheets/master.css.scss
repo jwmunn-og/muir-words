@@ -37,6 +37,9 @@ h1 {
   font-weight:bold;
 }
 
+h1.quote {
+  font-size: 48px;
+}
 .quote {
   color: #fff;
   font-family: 'IM Fell English', serif;
@@ -177,7 +180,7 @@ abbr[title] {
   margin: 0 auto;
   width: 300px;
   text-align: center;
-  margin-top: 3em;
+  margin-top: 2em;
 
   &:hover {
     background: #8DC63F;
@@ -277,6 +280,13 @@ a:hover, a:focus {
 
   .links a {
     font-size: 20px;
+  }
+
+  h1.quote {
+    font-size: 36px;
+  }
+  .modal-dialog {
+    margin: 20vh auto;
   }
 }
 
