@@ -34,5 +34,8 @@ This application requires [Postgres](http://www.postgresql.org/) to be installed
     bundle exec rake db:create
     bundle exec rake db:migrate
 
+## Seed Data
+    bundle exec rake db:seed
+
 ## Usage
     rails server
