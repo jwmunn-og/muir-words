@@ -4,7 +4,6 @@ A quote generator that keeps track and displays quotes at random. Site visitors 
 
 *Technical description: A database-powered quote generator with a mobile-first design, using Ruby on Rails, HTML and CSS. Deployed through Heroku.*
 
-https://github.com/codeforamerica/adopt-a-hydrant/raw/master/screenshot.png
 ## Screenshots
 ![Muir Words](https://raw.githubusercontent.com/jwmunn/muir-words/master/app/assets/images/muir-words-screenshot.png "Muir Words")
 
